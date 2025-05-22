@@ -1,2 +1,2 @@
-# dasc-2213
+# Beer Quality
 Repository for final project in Data Visualization course
